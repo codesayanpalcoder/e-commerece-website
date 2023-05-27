@@ -63,12 +63,12 @@
 
 2. Open XAMPP Control panal and start [apache] and [mysql] .
 
-3. Download project from github(https://github.com/parvezkhanats/online-shopping-system-with-advanced-admin-page.git)  
+3. Download project from github(https://github.com/codesayanpalcoder/e-commerece-website.git)  
     OR follow gitbash commands
     
 1. cd C:\\xampp\htdocs\
     
-2. git clone https://github.com/parvezkhanats/online-shopping-system-with-advanced-admin-page.git
+2. git clone https://github.com/codesayanpalcoder/e-commerece-website.git
     
 4. extract files in C:\\xampp\htdocs\.
 
