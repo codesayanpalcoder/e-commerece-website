@@ -1,5 +1,4 @@
-![GitHub](https://img.shields.io/github/license/parvezkhanats/online-shopping-system-advanced)
-![](https://visitor-badge.glitch.me/badge?page_id=parvezkhanats.shop)
+
 
 <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="195" height="55"></a>
 
